@@ -27,7 +27,7 @@ function Footer(){
 
   <textarea class="form-control my-2" id="exampleFormControlTextarea1"name="textarea" rows="3"></textarea>
   <input type="hidden" name="_captcha" value="false" />
-            <button class="btn btn-secondary my-3" type="submit">Subscribe</button>
+            <button class="btn btn-secondary my-3" type="submit">Send</button>
           </div>
         </form>
       </div>
