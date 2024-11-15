@@ -17,10 +17,10 @@ I'm excited to share my projects and experiences with you through this portfolio
             <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
 
             </div>
-          </div>
+{/*           </div>
           <div class="col-lg-4  p-0 overflow-hidden">
               <img class="rounded" src={Myimg} alt="" width="500" />
-          </div>
+          </div> */}
           
         </div>
       </div>
